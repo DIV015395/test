@@ -1,3 +1,5 @@
 teri mahboob quayamat hogi
 
 feature branch me lyrics likh diya
+
+ab second time me feature me lyrics likh diya
